@@ -12,13 +12,13 @@ BFMAP is a software tool for genomic analysis of quantitative traits, with a foc
 - Estimating causal-variant enrichment of a functional annotation (i.e., functional enrichment analysis);
 - Incorporating functional enrichment into fine-mapping.
 
-
-
+------
 ## [Manual](https://jiang18.github.io/bfmap/manual.pdf)
 
-
+------
 ## [Download](https://jiang18.github.io/bfmap/bfmap_0.65.zip)
 The executable file (binary code) is release under MIT lincense.
 
+------
 ## Example Data
 
