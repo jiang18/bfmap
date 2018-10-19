@@ -14,7 +14,7 @@ BFMAP is a software tool for genomic analysis of quantitative traits, with a foc
 
 
 
-## Manual-------------[PDF](https://jiang18.github.io/bfmap/manual.pdf)-------------[HTML](https://jiang18.github.io/bfmap/manual.html)
+## Manual [-------------PDF-------------](https://jiang18.github.io/bfmap/manual.pdf) [-------------HTML-------------](https://jiang18.github.io/bfmap/manual.html)
 
 
 
