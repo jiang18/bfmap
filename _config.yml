@@ -1,2 +1,5 @@
 title: "BFMAP by Jicai Jiang"
 description: "Bayesian Fine-Mapping and Association for Population and Pedigree Data"
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-127800290-1
