@@ -27,4 +27,4 @@ If you have any questions or bug reports, please send an email to Jicai Jiang at
 
 ------
 ## Citation
-Jiang, J., Cole, J. B., Da, Y., VanRaden, P. M., & Ma, L. (2018). Fast Bayesian fine-mapping of 35 production, reproduction and body conformation traits with imputed sequences of 27K Holstein bulls. [bioRxiv, 428227](https://www.biorxiv.org/content/early/2018/10/02/428227).
+Jiang, J., Cole, J. B., Freebern, E., Da, Y., VanRaden, P. M., & Ma, L. (2019). Functional annotation and Bayesian fine-mapping reveals candidate genes for important agronomic traits in Holstein bulls. *Communications biology*, 2(1), 1-12.
