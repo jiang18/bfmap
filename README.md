@@ -23,7 +23,7 @@ The executable file is released under the MIT lincense.
 
 ------
 ## Questions and Help Requests
-If you have any questions or bug reports, please send an email to Jicai Jiang at jiang18@terpmail.umd.edu
+If you have any questions or bug reports, feel free to email Jicai Jiang at jicai_jiang@ncsu.edu
 
 ------
 ## Citation
