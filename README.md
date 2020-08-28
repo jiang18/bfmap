@@ -27,4 +27,4 @@ If you have any questions or bug reports, feel free to email Jicai Jiang at jica
 
 ------
 ## Citation
-Jiang, J., Cole, J. B., Freebern, E., Da, Y., VanRaden, P. M., & Ma, L. (2019). Functional annotation and Bayesian fine-mapping reveals candidate genes for important agronomic traits in Holstein bulls. *Communications biology*, 2(1), 1-12. DOI: [10.1038/s42003-019-0454-y](https://doi.org/10.1038/s42003-019-0454-y)
+Jiang, J., Cole, J. B., Freebern, E., Da, Y., VanRaden, P. M., & Ma, L. (2019). Functional annotation and Bayesian fine-mapping reveals candidate genes for important agronomic traits in Holstein bulls. *Communications biology*, 2(1), 1-12. [DOI: 10.1038/s42003-019-0454-y](https://doi.org/10.1038/s42003-019-0454-y)
