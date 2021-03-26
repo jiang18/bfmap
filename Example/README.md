@@ -11,6 +11,7 @@ Input files: phenotype file (phen.csv) and GRM files (grm1.\*)
 ./bfmap --varcomp --phenotype phen.csv --trait milk --binary_grm_file grm1 --output milk --num_threads 10
 ```
 Output file: milk.varcomp.csv
+
 Expected: heritability = (proportion,0.307879)
 
 # GWAS
