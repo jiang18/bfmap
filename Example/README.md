@@ -21,5 +21,10 @@ Input files: phenotype file, SNP info file, genotype files, and GRM files
 ```
 Output file: milk.single.assoc.csv
 
+Expected: top SNP = (1006499,1,40.1925,-0.498007,40.6905,4.6119e-23,0.840652|)
+
 # Finemapping
 
+```
+./bfmap --sss --phenotype phen.csv --trait milk --snp_info_file topQTL.snp_info.csv --binary_genotype_file geno --binary_grm grm1 --heritability 0.307879 --output milk.topQTL
+```
