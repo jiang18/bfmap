@@ -26,7 +26,8 @@ Expected: top SNP = (1006499,1,40.1925,-0.498007,40.6905,4.6119e-23,0.840652|)
 # Finemapping
 Additional input file: SNP info file for a QTL region of interest (e.g. topQTL.snp_info.csv)
 ```
-./bfmap --sss --phenotype phen.csv --trait milk --snp_info_file topQTL.snp_info.csv --snp_weight weight --binary_genotype_file geno --binary_grm grm1 --heritability 0.307879 --output milk.topQTL
+./bfmap --sss --phenotype phen.csv --trait milk --snp_info_file topQTL.snp_info.csv --snp_weight weight --binary_genotype_file geno --binary_grm grm1 --heritability 0.307879 --output milk.topQTL --num_threads 10
 ```
 Output files: milk.topQTL.pip.csv and milk.topQTL.model.csv
 
+Expected: (Posterior number of causal variants is 2.09235)
