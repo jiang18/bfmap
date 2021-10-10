@@ -58,7 +58,7 @@ write.csv(dat, file="~/finemap/bfmap.pheno.csv", row.names=F, quote=F)
 
 ### BFMAP analysis
 ```
-./bfmap --compute_grm 1 --binary_genotype ~/giga_pig/3000_gwas_ok --snp_info gwas_ok.snp_info.csv --output bfmap_grm
+./bfmap --compute_grm 1 --binary_genotype ~/giga_pig/3000_gwas_ok --snp_info gwas_ok.snp_info.csv --output bfmap_grm --num_threads 10
 
 ./bfmap --varcomp --phenotype bfmap.pheno.csv --trait QT --binary_grm bfmap_grm --output hsq --num_threads 10
 
