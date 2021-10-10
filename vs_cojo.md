@@ -80,7 +80,7 @@ assoc[c(447,464),]
 ```
 ### GCTA-COJO analysis
 ```sh
-gcta64 --cojo-slct --bfile filled --cojo-file lmm.ma --cojo-p 1e-6 --out cojo
+gcta64 --cojo-slct --bfile filled --cojo-file lmm.ma --cojo-p 1e-4 --out cojo
 ```
 
 ### Z-scores-based methods
