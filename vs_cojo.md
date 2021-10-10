@@ -35,7 +35,7 @@ ReadGRMBin=function(prefix, AllN=F, size=4){
 }
 
 # read GRM
-bin = ReadGRMBin( "pig_grm" )
+bin = ReadGRMBin( "~/giga_pig/pig_grm" )
 np = length(bin$diag)
 G = matrix(0, nrow=np, ncol=np)
 G[upper.tri(G)] = bin$off
