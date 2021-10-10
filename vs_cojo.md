@@ -62,7 +62,7 @@ write.csv(dat, file="~/finemap/bfmap.pheno.csv", row.names=F, quote=F)
 
 ./bfmap --varcomp --phenotype bfmap.pheno.csv --trait QT --binary_grm bfmap_grm --output hsq --num_threads 10
 
-./bfmap --phenotype bfmap.pheno.csv --trait QT --snp_info chr1-20-25.snp_info.csv --binary_genotype 3000_gwas_ok --output test --num_threads 10 --binary_grm bfmap_grm --heritability 0.51
+./bfmap --phenotype bfmap.pheno.csv --trait QT --snp_info chr1-20-25.snp_info.csv --binary_genotype ~/giga_pig/3000_gwas_ok --output test --num_threads 10 --binary_grm bfmap_grm --heritability 0.51
 ```
 
 ### GCTA LMM analysis
