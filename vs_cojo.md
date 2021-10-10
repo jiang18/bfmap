@@ -86,6 +86,15 @@ gcta64 --cojo-slct --bfile filled --cojo-file lmm.ma --cojo-p 1e-4 --out cojo
 ### Z-scores-based methods
 ```R
 assoc = read.table("~/finemap/lmm.mlma",head=T)
+# read GRM
+bin = ReadGRMBin( "~/giga_pig/pig_grm" )
+np = length(bin$diag)
+G = matrix(0, nrow=np, ncol=np)
+G[upper.tri(G)] = bin$off
+G = G + t(G)
+diag(G) = bin$diag + 1
+raw = read.table("~/finemap/add.raw",head=T)
+raw = raw[,-(1:6)]
 
 # Computing Bayes factors using simple correlations
 # when 447 and 464 are included
