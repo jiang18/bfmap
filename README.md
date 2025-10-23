@@ -3,19 +3,22 @@
 ### Bayesian Fine-Mapping and Association for Population and Pedigree Data
 
 
-BFMAP is a software tool for genomic analysis of quantitative traits, with a focus on fine-mapping, SNP-set association, and functional enrichment. It uses phenotypes and genotypes, and works for samples with population structure and/or relatedness. BFMAP currently supports the following analyses.
+BFMAP is a C++ program for genetic fine-mapping and SNP-set association of quantitative traits. It handles phenotypes and genotypes from samples with population structure and/or relatedness.
 
-- Estimating SNP-heritability;
-- Genome-wide single-marker/SNP-set association analysis;
-- Fine-mapping by forward selection or shotgun stochastic search;
-- Estimating causal-variant enrichment of a functional annotation (i.e., functional enrichment analysis);
-- Incorporating functional enrichment into fine-mapping.
+**Key features**:
+- SNP-heritability estimation
+- Genome-wide single-marker and SNP-set association analysis
+- Fine-mapping via forward selection or shotgun stochastic search
+
+**Companion R package**: [GEMRICH](https://github.com/jiang18/gemrich) integrates BFMAP results with functional annotations:
+- Estimating genetic effect enrichment in functional annotations
+- Incorporating functional enrichment into fine-mapping
 
 ------
 ## [Manual](https://jiang18.github.io/bfmap/manual.pdf)
 
 ------
-## [Download](https://jiang18.github.io/bfmap/bfmap_0.65.zip)
+## [Download](https://github.com/jiang18/bfmap/releases/download/v0.91/bfmap-v0.91-x86_64-linux.zip)
 The executable file is released under the MIT lincense.
 
 ------
@@ -28,3 +31,4 @@ If you have any questions or bug reports, feel free to email Jicai Jiang at jica
 ------
 ## Citation
 Jiang, J., Cole, J. B., Freebern, E., Da, Y., VanRaden, P. M., & Ma, L. (2019). Functional annotation and Bayesian fine-mapping reveals candidate genes for important agronomic traits in Holstein bulls. *Communications biology*, 2(1), 1-12. [DOI: 10.1038/s42003-019-0454-y](https://doi.org/10.1038/s42003-019-0454-y)
+
