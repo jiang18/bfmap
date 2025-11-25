@@ -31,7 +31,8 @@ If you have any questions or bug reports, feel free to email Jicai Jiang at jica
 ------
 ## Citation
 ### Fine-mapping with forward selection
-Jiang, J., Cole, J. B., Freebern, E., Da, Y., VanRaden, P. M., & Ma, L. (2019). Functional annotation and Bayesian fine-mapping reveals candidate genes for important agronomic traits in Holstein bulls. *Communications biology*, 2(1), 1-12. [DOI: 10.1038/s42003-019-0454-y](https://doi.org/10.1038/s42003-019-0454-y)
+Jiang J, Cole JB, Freebern E, Da Y, VanRaden PM, Ma L. Functional annotation and Bayesian fine-mapping reveals candidate genes for important agronomic traits in Holstein bulls. Commun Biol. 2019 Jun 18;2:212. doi: [10.1038/s42003-019-0454-y](https://doi.org/10.1038/s42003-019-0454-y). PMID: [31240250](https://pubmed.ncbi.nlm.nih.gov/31240250/); PMCID: [PMC6582147](https://pmc.ncbi.nlm.nih.gov/articles/PMC6582147/).
 
 ### Fine-mapping with shotgun stochastic search
-*Manuscript under review*
+Wang J, Tiezzi F, Huang Y, See G, Schwab C, Wei J, Maltecca C, Jiang J. Fine-mapping methods for complex traits: essential adaptations for samples of related individuals. Brief Bioinform. 2025 Nov 1;26(6):bbaf614. doi: [10.1093/bib/bbaf614](https://doi.org/10.1093/bib/bbaf614). PMID: [41269279](https://pubmed.ncbi.nlm.nih.gov/41269279/); PMCID: [PMC12636493](https://pmc.ncbi.nlm.nih.gov/articles/PMC12636493/).
+
