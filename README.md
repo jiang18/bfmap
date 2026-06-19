@@ -13,6 +13,7 @@ BFMAP is a C++ program for genetic fine-mapping and SNP-set association of quant
 **Companion R package**: [GEMRICH](https://github.com/jiang18/gemrich) integrates BFMAP results with functional annotations:
 - Estimating genetic effect enrichment in functional annotations
 - Incorporating functional enrichment into fine-mapping
+- Computing genomic-feature PIP (e.g., gene-level PIP)
 
 ------
 ## [Manual](https://jiang18.github.io/bfmap/manual.pdf)
