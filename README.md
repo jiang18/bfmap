@@ -20,7 +20,7 @@ BFMAP is a C++ program for genetic fine-mapping and SNP-set association of quant
 
 ------
 ## [Download](https://github.com/jiang18/bfmap/releases/download/v0.91/bfmap-v0.91-x86_64-linux.zip)
-The executable file is released under the MIT lincense.
+The executable file is released under the MIT license.
 
 ------
 ## [Example Data](https://github.com/jiang18/bfmap/tree/master/Example)
